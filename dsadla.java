@@ -6,7 +6,7 @@ class Vehicle {
 }
 
 class Car extends Vehicle {
-  private String modelName = "Mustnnnnag";    // Car attribute
+  private String modelName = "Mustnnnag";    // Car attribute
   public static void main(Strig[] args) {
 
     // Create a myCar object
