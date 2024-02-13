@@ -1,5 +1,5 @@
 class Vehicle {
-  protected String brand = "Fodr";        // Vehicle attribute
+  protected String brand = "For";        // Vehicle attribute
   public void honk() {                    // Vehicle method
     System.out.println("Tuuu");
   }
