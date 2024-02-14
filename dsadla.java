@@ -1,7 +1,6 @@
 class Vehicle {
   protected String brand = "For";        // Vehicle attribute
-  public void honk() {                    // Vehicle method
-    System.out.println("Tuuu");
+  public void honk() {                    // Vehicle metho
   }
 }
 
