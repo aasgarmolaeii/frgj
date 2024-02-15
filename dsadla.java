@@ -1,4 +1,4 @@
-class Vehicle {
+class Vehile {
   protected String brand = "For";        // Vehicle attribute
   public void honk() {                    // Vehicle metho
   }
