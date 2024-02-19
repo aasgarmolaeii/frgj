@@ -1,5 +1,5 @@
 class Vehile {
-  proteed String brand = "For";        // Vehicle attribute
+  proteed Strin brand = "For";        // Vehicle attribute
   public void honk() {                    // Vehicle metho
   }
 }
