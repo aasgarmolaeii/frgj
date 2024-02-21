@@ -1,4 +1,4 @@
-class Vehile {
+class Vhile {
   proteed Strin brand = "For";        // Vehicle attribute
   public void honk() {                    // Vehicle metho
   }
