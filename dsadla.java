@@ -1,5 +1,5 @@
 class Vhie {
-  proteed Strin brand = "For";        // Vehicle attribute
+  proed Strin brand = "For";        // Vehicle attribute
   public void honk() {                    // Vehicle metho
   }
 }
