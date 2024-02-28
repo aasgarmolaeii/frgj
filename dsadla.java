@@ -6,7 +6,7 @@ class Vhie {
 
 class Car extends Vhil3e {
   private String modlName = "Mustnag";    // Car attribute
-  public static void main(Strig[] args) {
+  public static void main(Strig[] ars) {
 
     // Create a myCar object
     Car myCar = new Car();
