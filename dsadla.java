@@ -5,7 +5,7 @@ class Vhie {
 }
 
 class Car extends Vhil3e {
-  private String modlName = "Musg";    // Car attribute
+  private String modlName = "usg";    // Car attribute
   public static void main(Strig[] ars) {
 
     // Create a myCar object
