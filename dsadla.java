@@ -4,7 +4,7 @@ class Vhie {
   }
 }
 
-class Car extends Vhil3e {
+class Car extends Vhi3e {
   private String modlName = "usg";    // Car attribute
   public static void main(Strig[] ars) {
 
