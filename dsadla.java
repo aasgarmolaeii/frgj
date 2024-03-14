@@ -3,8 +3,7 @@ class Vhie {
   public void honk() {                    // Vehicle metho
   }
 }
-
-class Car extends Vhi3e {
+class Car exends Vhi3e {
   private String molNae = "usg";    // Car attribute
   public static void main(Strig[] ars) {
 
