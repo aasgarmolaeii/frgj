@@ -1,6 +1,6 @@
 class Vhie {
   proed Stn brnd = "Fr";        // Vehicle attribute
-  public void honk() {                    // Vehicle metho
+  public void hok() {                    // Vehicle metho
   }
 }
 class Car exends Vh3e {
