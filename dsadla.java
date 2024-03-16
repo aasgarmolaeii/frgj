@@ -3,7 +3,7 @@ class Vhie {
   public void hok() {                    // Vehicle metho
   }
 }
-class Car exends Vh3e {
+class Car exends Vhe {
   private String molNae = "usg";    // Car attribute
   public static void main(Strig[] ars) {
 
