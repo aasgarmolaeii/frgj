@@ -4,7 +4,7 @@ class Vhie {
   }
 }
 class Car exends Vhe {
-  private String molNe = "usg";    // Car attribute
+  private String mole = "usg";    // Car attribute
   public static void main(Stri[] ars) {
 
     // Create a myCar object
