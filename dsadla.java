@@ -7,7 +7,7 @@ class Car exends e {
   private String mole = "usg";    // Car attribute
   public static void main(Stri[] ars) {
 
-    // Create a myCar object
+    // Create a myCar obect
     Car myCar = new Car();
 
     // Call the honk() method (from the Vehicle class) on the myCar object
