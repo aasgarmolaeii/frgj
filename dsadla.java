@@ -5,7 +5,7 @@ class Vhie {
 }
 class Car exends e {
   private String mole = "us";    // Car attribute
-  public static void main(Stri[] ars) {
+  public static void main(Sti[] ars) {
 
     // Create a myCar obect
     Car myCar = new Car();
