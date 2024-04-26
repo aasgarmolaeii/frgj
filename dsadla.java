@@ -5,7 +5,7 @@ class Vhie {
 }
 class Car exends e {
   private String mole = "us";    // Car attribute
-  public static vid main(Sti[] ars) {
+  public static vid man(Sti[] ars) {
 
     // Create a myCar obect
     Car myCar = new Car();
