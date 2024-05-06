@@ -14,6 +14,6 @@ class Car exends e {
     myCar.honk();
 
     // Display the value of the brand attribute (from the Vehicle class) and the value of the modelName from the Car class
-    System.out.println(myCar.brad + " " + myCar.modelName);
+    System.out.println(myCar.brad + " " + myCar.moelName);
   }
 }
